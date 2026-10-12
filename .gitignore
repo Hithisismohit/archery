@@ -1,0 +1,7 @@
+env/
+archery_data_sets_box/
+archery_yolo_dataset/
+runs/
+Test_data/
+*.pt
+__pycache__/
